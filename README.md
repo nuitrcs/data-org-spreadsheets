@@ -1,7 +1,9 @@
 # Data Organization in spreadsheets workshop
 
 2022-07-12
+
 10 am - 11:30 am
+
 Online
 
 How do you use spreadsheets in your research? If you're like many researchers, your spreadsheets include not only data, but plots, color coding, calculations and stray research notes.
